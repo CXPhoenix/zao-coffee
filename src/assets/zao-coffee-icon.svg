@@ -4,7 +4,8 @@
 	 viewBox="0 0 425.2 425.2" style="enable-background:new 0 0 425.2 425.2;" xml:space="preserve" fill="currentColor">
 <style type="text/css">
 	.st0{display:none;}
-	.st1{fill:#FFFFFF00;}
+	.st1{fill:none;}
+	.st11{fill:#FFFFFF}
 	.st2{fill:#F3C517;stroke:#40220F;stroke-width:9;stroke-miterlimit:10;}
 	.st3{fill:#FFFFFF;stroke:#40220F;stroke-width:2;stroke-miterlimit:10;}
 	.st4{fill:#40220F;}
@@ -3870,7 +3871,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAMArgjJk8XQ1zhAAAAABJRU5ErkJggg==" transform="matrix(0.24
 </g>
 <g id="寶寶圖形">
 	<g>
-		<path class="st1" d="M278.62,146.57c-20.29,1.35-36.73,17.8-38.08,38.09c-0.51,7.66,1.1,14.89,4.28,21.2
+		<path class="st11" d="M278.62,146.57c-20.29,1.35-36.73,17.8-38.08,38.09c-0.51,7.66,1.1,14.89,4.28,21.2
 			c-4.8-3.3-10.7-5.25-17.09-5.25c-15.03,0-29.01,12.36-28.83,27.81c0.08,6.53,3.73,11.27,6.43,17.06
 			c2.95,6.33,5.4,12.93,6.73,19.81c2.93,15.2-0.07,31.39-7.87,44.74c0.78-0.57,1.55-1.15,2.33-1.73
 			c6.37-8.57,11.95-17.73,16.58-27.35c5.88-12.23,14.05-23.44,25.06-31.53c9.42-6.92,20.57-11.11,31.19-15.77
